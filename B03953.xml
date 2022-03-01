@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from Collonel Gilbert Ker, Lieutenant Col. Hacket, and Lieutenant Col. Strachan, to the Committe of Estates of the Kingdome of Scotland, May 9. 1649.</title>
+            <author>Ker, Gilbert, Colonel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03953</idno>
+            <idno type="STC">Wing K336B</idno>
+            <idno type="STC">ESTC R179207</idno>
+            <idno type="EEBO-CITATION">51784574</idno>
+            <idno type="OCLC">ocm 51784574</idno>
+            <idno type="VID">174983</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03953)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174983)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2708:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from Collonel Gilbert Ker, Lieutenant Col. Hacket, and Lieutenant Col. Strachan, to the Committe of Estates of the Kingdome of Scotland, May 9. 1649.</title>
+                  <author>Ker, Gilbert, Colonel.</author>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh,</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication taken from Wing (2nd ed.).</note>
+                  <note>Caption title.</note>
+                  <note>Imperfect</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Battles --  Scotland --  17th century --  Early works to 1800.</term>
+               <term>Scotland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History, Military --  17th century --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:174983:1"/>
+            <!-- PDF PAGE 28 -->
+            <pb facs="tcp:174983:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <head>A LETTER Sent from Collonel GILBERT KER, Lieutenant Col. HACKET, and Lieutenant Col. STRACHAN, to the Committee of Eſtates of the Kingdome of <hi>Scotland,</hi> 
+               <date>May 9. 1649.</date>
+            </head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>GOd hath delivered your enemies into your hands, the praiſe and honour be rendered unto himſelfe, and now praiſe will very well become the upright in heart: To enlarge the par<g ref="char:EOLhyphen"/>ticular circumſtances of the action, it will not be very needfull; every particular hath been managed by a providence which is not admirable by any one thing but in the whole, ſo little of man or nothing, but wholly and all of God, yet we think it ne<g ref="char:EOLhyphen"/>ceſſary to acquaint you with the way how the Lord brought it about: Upon Sunday at night we received ſome Intelligence at <hi>Innerneſſe,</hi> that the enemy was advanced down from <hi>Strath-Spey</hi> to <hi>Balvenie;</hi> And that they had a reſolution, and that ſud<g ref="char:EOLhyphen"/>denly to make a march, and as our Intelligence from a carefull hand, being the Governour of the <hi>Booge,</hi> did informe, it was probable ſuddenly to diſpatch us, at this time neither we, nor any that keeped correſpondence with us, heard any newes from the Lieutenant Generall, and this made us thinke our ſelves in ſome probable danger, being in a very narrow place if they ſhould have entred <hi>Roſſe</hi> upon us, not having above 150 horſe; after conſideration of our condition, we conceived that the
+<pb n="2" facs="tcp:174983:2"/>
+               <!-- PDF PAGE 29 -->
+Lord called for ſome thing from us in this dark time, the ene<g ref="char:EOLhyphen"/>mies making themſelves ſtrong, and getting up their Levies in ſeverall places without any reſiſtance, made us reſolve to march the ſame night, being Sunday at night, &amp; where ever we met, if the river was rydable to engage with them; that night we ad<g ref="char:EOLhyphen"/>vanced towards <hi>Caldell,</hi> and refreſhed a little in the morning, we had Intelligence of the enemies being at <hi>Elgin,</hi> and then concluded from that we muſt meet with them neceſſarily upon the march: In that place, having (in that weak manner we were able) ſought the Lord in this matter, with freedom we reſolved in the Lords ſtrength to advance to <hi>Forres,</hi> there our former Intelligence was contradicted, we expected a conſiderable num<g ref="char:EOLhyphen"/>ber of the Gentry of <hi>Mucray,</hi> which much or rather altogether failed us, yet notwithſtanding, we conceived it neceſſary to ad<g ref="char:EOLhyphen"/>vance that night, and if they had not croſſed <hi>Spey</hi> to engage with them at <hi>Balvenie-land,</hi> though we met with ſome more difficul<g ref="char:EOLhyphen"/>ty that way; this being concluded, we came on Munday at night neer <hi>Rothes,</hi> where we refreſhed three or four hours, &amp; there we could not be certainly informed if that the water was rydable or not, only we heard that <hi>Middleton</hi> had tryed it, and it was im<g ref="char:EOLhyphen"/>poſſible for him, yet being there, we reſolved in the Lords ſtrength to go on, &amp; marching from that place early, we advan<g ref="char:EOLhyphen"/>vanced towards the Foords, and trying one Foord, it was not to be ridden, but another above was, yet with great hazzard, for it was very ſtrong and deep, and moſt that paſſed, ſwimmed, and one was loſt; Lievtenant Collonell <hi>Strachan</hi> who com<g ref="char:EOLhyphen"/>manded the fore-partie conſiſting of about 50 horſe, being through, marched on, and quickly advanced up, paſſing by ſome quarters without notice, he marched up to a Body of their Foot, and moſt faithfully charged them, and brake them, and diſſipated them; many then fled to the Hills, then the Al<g ref="char:EOLhyphen"/>larm was univerſall, ſome drew to the Caſtle of <hi>Balvenie</hi> which was purſued ſtill by the Lieutenant Collonel, another
+<pb n="3" facs="tcp:174983:2"/>
+               <!-- PDF PAGE 29 -->
+Body, under the Command of the Lord <hi>Rae,</hi> drew to ſome bu<g ref="char:EOLhyphen"/>ſhes of wood, and being drawne in there, had no out-gate though a ſtrong ground for them, we then drew a partie to the other ſide of the Hill that they might not paſſe: By this time, comming to ſome diſcourſe, my Lord <hi>Rae</hi> ſent up, and we, after ſome debate, proffered them their lives, and only their lives: But after more conſideration, we conſulted upon theſe Articles of Capitulation here incloſed: We have with us at this time neer upon 800. and there are betwixt 60. and 80. killed, and not one of us; We conceive there are two or three hundred fled, if not more; And have directed letters to the Laird of <hi>Graunt</hi> (who in<g ref="char:EOLhyphen"/>deed deſerves to be cheriſhed) to intercept them: Now, my Lords, we have no more to ſay, craving pardon for our tediouſ<g ref="char:EOLhyphen"/>neſſe, only this we dare ſay, that God ſpeaketh this language to <hi>Scotland</hi> this day by his diſpenſations, that if they will have a tender eye to his Kingdome, you ſhall not be troubled much with any fear for your own: We earneſtly deſire your Com<g ref="char:EOLhyphen"/>mands, what courſe ſhall be taken with the people that we have, (ever providing our Capitulation be keeped) for the ſecurity of the Kingdom, and becauſe we are to conduct them to their own Country, we deſire that the publick Commands may be ſent to Lieutenant Generall <hi>Leſley</hi> with all expedition, for we are re<g ref="char:EOLhyphen"/>ſolved to keep them together untill we hear from your Lord<g ref="char:EOLhyphen"/>ſhip, or from the Leiutenant Generall, which we humbly and earneſtly deſire may be with all expedition. We will not ven<g ref="char:EOLhyphen"/>ture to trouble your Lorſhip any further, humbly taking our leaves, we remain</p>
+            <closer>
+               <dateline>From <hi>Tanachie</hi> in <hi>Enȝie,</hi>
+                  <date>May 9. 1649.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble Servants,
+<list>
+                     <item>GILBERT KER.</item>
+                     <item>RO. HACKET.</item>
+                     <item>ARCH. STRACHEN.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="articles">
+            <pb n="4" facs="tcp:174983:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <opener>
+               <dateline>
+                  <date>MAY the 9. 1649.</date>
+               </dateline>
+            </opener>
+            <head>Articles agreed on betwixt Colonel <hi>Gilbert Ker,</hi> Lieutenant Colonel <hi>Hacket,</hi> Lieutenant Colonel <hi>Strachan,</hi> and the Lord <hi>Rae, Colline Mackenȝie,</hi> and <hi>Donald Macpherſon,</hi> and their followers.</head>
+            <p n="1">1. IT is agreed, that the Lord <hi>Rae</hi> and all his followers ſhall have their lives.</p>
+            <p n="2">2. That only the Tennents and Commons ſhall have liber<g ref="char:EOLhyphen"/>ty to go home, they leaving their Armes undefaced, and not imbezelled or conveyed away.</p>
+            <p n="3">3. That all Iriſhes ſhall be at the diſpoſall of Colonel <hi>Ker.</hi>
+            </p>
+            <p n="4">4. That all Ammunition whatſoever, and Horſes uſefull for ſervice ſhall be delivered to Colonell <hi>Ker.</hi>
+            </p>
+            <p n="5">5. That the Lord <hi>Rae, Colline Mackenȝie,</hi> and <hi>Donald Mac<g ref="char:EOLhyphen"/>pherſone,</hi> do hereby oblige themſelves under the hazard of loo<g ref="char:EOLhyphen"/>ſing their lives &amp; eſtates, that the common Souldiers &amp; Tenants which are to be diſmiſſed, ſhall never hereafter riſe in Armes to trouble the Peace of the Kingdom, or againſt the Eſtates.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>GILBERT KER.</item>
+                     <item>RO. HACKET.</item>
+                     <item>ARCH. STRACHAN.</item>
+                     <item>JO. REAY.</item>
+                     <item>COLINE MACKENȜIE</item>
+                     <item>DONALD MACPHERSON.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_names">
+            <head>The names of the Gentlemen and Officers that are to be keeped.</head>
+            <list>
+               <item>
+                  <list>
+                     <item>The Lord <hi>Rae</hi> and his Uncle.</item>
+                     <item>Captain <hi>Robert Mackcay.</hi>
+                     </item>
+                     <item>
+                        <hi>Duncan Mackcay.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Mackcay.</hi>
+                     </item>
+                     <item>
+                        <hi>Donald Mackcay.</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Macklaine.</hi>
+                     </item>
+                     <item>
+                        <hi>John Macallaſter.</hi>
+                     </item>
+                     <item>
+                        <hi>Tonnit Mackenȝie Calace.</hi>
+                     </item>
+                     <item>The Officers belonging to <hi>Pluſcar<g ref="char:EOLhyphen"/>den.</hi>
+                     </item>
+                     <item>
+                        <hi>Mackenȝie</hi> of Reed-Caſtle.</item>
+                     <item>
+                        <hi>Colline Mackenȝie.</hi>
+                     </item>
+                     <item>
+                        <hi>Rorie Mackenȝie.</hi>
+                     </item>
+                     <item>
+                        <hi>Murdoch Mackenȝie.</hi>
+                     </item>
+                     <item>
+                        <hi>Hector Mackenȝie.</hi>
+                     </item>
+                     <item>
+                        <hi>Kenmeth Mackenȝie.</hi>
+                     </item>
+                     <item>
+                        <hi>John Dumbar.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Badȝenoch-men.</head>
+                     <item>Donald Macpherſon.</item>
+                     <item>Tho. Macpherſon.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174983:3"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
